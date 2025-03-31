@@ -154,4 +154,4 @@ exit 0
 Chaque fonction a un rôle spécifique dans ce script, allant de l'installation de paquets à la personnalisation de fichiers de configuration système, en passant par la configuration de la sécurité SSH.
  Les commentaires expliquent les actions de chaque section pour rendre le script plus facile à comprendre.
 
-Je laisse même la réponse chatgpt - parceque honnetement, on va tous codé avec chatgpt pour ceux qui aime pas le code.
+Je laisse même la réponse chatgpt - parceque honnetement, on va tous coder avec chatgpt pour ceux qui aime pas le code.
